@@ -30,7 +30,6 @@
 Name | Description | Status | Link
 -----|-------------|--------|------
 E Commerce App | Implemented using Flutter and Dart | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/devashishpant89/flutter_catalog) 
-
 Olympics Quiz | Implemented using Kotlin | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/devashishpant89/OlympicsQuizApp)
 
 <br />
